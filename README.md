@@ -1,3 +1,4 @@
-###Heading1
+Heading1
 ===
-##Sub Heading
+Sub Heading
+---
