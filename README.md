@@ -2,6 +2,5 @@ Heading1
 ===
 Sub Heading
 ---
-#Heading2
 
-##SubHeading
+**This is a bold Text**
