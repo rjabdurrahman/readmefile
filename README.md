@@ -1,7 +1,10 @@
-# Heading 1
+# Unique Result Management System
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
+## Features
+* Add Student
+* Add Result 
+* Sort Result
+* Search Result 
+* Upload Result Online
+* Download CSV
+* Upload CSV
