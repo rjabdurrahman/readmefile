@@ -10,5 +10,6 @@
 * Upload CSV
 
 ```
-For More Details [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
+For More Details
 ```
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
